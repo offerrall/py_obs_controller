@@ -58,6 +58,14 @@ mic_input_name = 'Microphone'
 obs_controller.inputs.set_muted(mic_input_name, True)
 ```
 
+## Documentation
+
+The complete documentation for PyOBScontroller is available at the following link:
+
+[https://offerrall.github.io/py_obs_controller/py_obs_controller.html](https://offerrall.github.io/py_obs_controller/py_obs_controller.html)
+
+This comprehensive guide provides detailed information on how to use each class and function within the PyOBScontroller library. We encourage you to explore the documentation to learn how to take full advantage of the library's capabilities and simplify your interaction with OBS Studio through the WebSocket API.
+
 
 ## TODO
 
